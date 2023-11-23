@@ -1,11 +1,11 @@
-# PageRankAlgorithmFormula1
+# PageRankAlgorithmFormula1 🏎️
 
 This project conducts analysis on Formula 1 race results, utilizing the PageRank algorithm to evaluate both drivers and teams based on their head-to-head performance throughout the season.
 
-## Overview
+## Overview 
 
-- The project is implemented in Python and relies on Pandas, NumPy, and network analysis techniques.
-- It includes functions for data retrieval, adjacency matrix creation, normalization, and PageRank calculation for both drivers and teams.
+- The project is implemented in Python and relies on Pandas, NumPy, and network analysis techniques.🔄
+- It includes functions for data retrieval, adjacency matrix creation, normalization, and PageRank calculation for both drivers and teams.🔄
 
 
 ## Dependencies
