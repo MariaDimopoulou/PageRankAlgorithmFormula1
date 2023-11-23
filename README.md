@@ -13,7 +13,7 @@ This project conducts analysis on Formula 1 race results, utilizing the PageRank
 - Python 3
 - Pandas
 - NumPy
-- 
+  
 ## Project Structure
 
 - **Data Retrieval:**
